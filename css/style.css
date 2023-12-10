@@ -1,7 +1,13 @@
 .evita{
-	height: 50%;
+	width: 40%;
 }
 
 h1{
-	color: pink;
+	color: white;
+	background: black;
+	text-align: center;
+}
+
+.eva{
+	width: 80%;
 }
